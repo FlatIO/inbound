@@ -1,6 +1,26 @@
 [
 	{
 		"url": null,
+		"referrer": "https://www.google.co.uk/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "google"
+			}
+		}
+	},
+	{
+		"url": "http://www.newyorker.com/online/blogs/johncassidy/2012/08/economy-points-to-dead-heat-in-november.html?gclid=XYZ123",
+		"referrer": "https://www.google.co.uk/",
+		"result": {
+			"referrer": {
+				"type": "ad",
+				"network": "google"
+			}
+		}
+	},
+	{
+		"url": null,
 		"referrer": "https://www.google.co.uk/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d2\u0026ved\u003d0CEgQFjAB\u0026url\u003dhttps%3A%2F%2Fwww.datanitro.com%2F\u0026ei\u003d02ImUK--C6KX1AWbpIDICg\u0026usg\u003dAFQjCNHOS6IopwZTOOXX-temg3t9jph8SQ\u0026sig2\u003dtzL6mJCTxRdYnOxnc3Dl5A",
 		"result": {
 			"referrer": {
@@ -352,9 +372,8 @@
 		"referrer": "https://www.google.com/",
 		"result": {
 			"referrer": {
-				"type": "link",
-				"from": "https://www.google.com/",
-				"link": "https://news.google.com/nwshp?hl=en&tab=wn"
+				"type": "search",
+				"engine": "google"
 			}
 		}
 	},
