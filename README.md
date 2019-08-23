@@ -7,12 +7,12 @@ inbound is a referrer parsing library for node.js / express web apps.
 
 ### Install
 ```
-npm install inbound
+npm install @flat/inbound
 ```
 
 ### API
 ```javascript
-var inbound = require('inbound');
+var inbound = require('@flat/inbound');
 inbound.referrer.parse(url, referrer, function (err, description) {
     console.log(description);
 });
@@ -24,7 +24,7 @@ inbound.referrer.parse(url, referrer, function (err, description) {
 
 ### Express.js Middleware
 ```javascript
-var inbound = require('inbound'),
+var inbound = require('@flat/inbound'),
     express = require('express');
 
 var app = express();
