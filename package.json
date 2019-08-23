@@ -1,5 +1,5 @@
 {
-  "name": "@flatio/inbound",
+  "name": "@flat/inbound",
   "version": "1.0.0",
   "description": "Url referrer and campaign parsing utilities",
   "author": "Vincent Giersch <vincent+github@flat.io>, Ilya Volodarsky <ilya@segment.io>, Adam Solove <asolove@gmail.com>",
@@ -12,15 +12,12 @@
     "test": "mocha --reporter spec"
   },
   "dependencies": {
-    "async": "*",
+    "async": "^3.1.0",
     "tldts": "^5.3.2",
-    "underscore": "*"
+    "underscore": "^1.9.1"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "publishConfig": {
-    "registry": "https://registry.segment.io"
+    "mocha": "^6.2.0",
+    "should": "^13.2.3"
   }
 }
