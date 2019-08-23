@@ -1,8 +1,8 @@
 {
-  "name": "s-inbound",
+  "name": "@flatio/inbound",
   "version": "1.0.0",
   "description": "Url referrer and campaign parsing utilities",
-  "author": "Ilya Volodarsky <ilya@segment.io>, Adam Solove <asolove@gmail.com>",
+  "author": "Vincent Giersch <vincent+github@flat.io>, Ilya Volodarsky <ilya@segment.io>, Adam Solove <asolove@gmail.com>",
   "engines": {
     "node": ">= 0.8"
   },
