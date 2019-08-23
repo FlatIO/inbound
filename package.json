@@ -12,13 +12,13 @@
     "test": "mocha --reporter spec"
   },
   "dependencies": {
-    "underscore": "*",
     "async": "*",
-    "tldextract": "*"
+    "tldts": "^5.3.2",
+    "underscore": "*"
   },
   "devDependencies": {
-    "should": "*",
-    "mocha": "*"
+    "mocha": "*",
+    "should": "*"
   },
   "publishConfig": {
     "registry": "https://registry.segment.io"
